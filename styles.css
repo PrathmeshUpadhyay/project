@@ -9,7 +9,7 @@ h1{
 section{
   background-color:Cornsilk;
   border:1px solid black;
-  margin-bottom:10px;
+  margin-bottom:2%;
 }
 h2{
   background-color:olive;
@@ -37,7 +37,7 @@ p{
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 29.33%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -87,7 +87,7 @@ p{
     width: 41.66%;
   }
   .col-md-6 {
-    width: 50;
+    width: 46;
   }
   .col-md-7 {
     width: 58.33%;
@@ -105,7 +105,7 @@ p{
     width: 91.66%;
   }
   .col-md-12 {
-    width: 100%;
+    width: 96%;
   }
 }
 /********** small devices only **********/
@@ -148,6 +148,6 @@ p{
     width: 91.66%;
   }
   .col-sm-12 {
-    width: 100%;
+    width: 96%;
   }
 }

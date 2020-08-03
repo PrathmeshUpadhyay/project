@@ -20,6 +20,7 @@ h2{
 }
 p{
   margin:5px;
+  Text-size:16px;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
